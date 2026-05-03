@@ -1,0 +1,25 @@
+# Compiled output
+*.out
+*.exe
+*.o
+*.a
+
+# Build folders
+/build/
+/bin/
+/obj/
+
+# Debug files
+*.log
+*.dSYM/
+
+# VS Code
+.vscode/
+
+# Code::Blocks / Dev-C++
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
